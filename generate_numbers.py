@@ -3,7 +3,7 @@ def natural_numbers(n):
     #Code here
 
 
-def nth_fibnocchi(n):
+def nth_fibonacci(n):
     #Returns n-th fibonacci number
     #Code here
 
